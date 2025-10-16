@@ -1,0 +1,7 @@
+{
+  "app_title": "Choose the Right Package",
+  "error_loading_packages": "Error loading packages: {error}",
+  "no_packages_available": "No packages available",
+  "package_extra": "Extra",
+  "package_premium": "Premium"
+}

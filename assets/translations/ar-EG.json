@@ -1,0 +1,7 @@
+{
+  "app_title": "اختر الباقة المناسبة",
+  "error_loading_packages": "خطأ في تحميل الباقات: {error}",
+  "no_packages_available": "لا توجد باقات متاحة",
+  "package_extra": "أكسترا",
+  "package_premium": "بريميوم"
+}
